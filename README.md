@@ -2,7 +2,7 @@
 
 wszystkie pliki potrzebne do uruchomienia programu sa dodane do folderu z aplikacja(podpisany plik)
 
-#import biblioteki(InteliJ)
+# import biblioteki (InteliJ)
 
 - CTRL + ALT + SHIFT + S
 
